@@ -1,1 +1,1 @@
-# 2016312117Graduation
+# This is Github repository for the graduation project <the Korean Traditional Cultural Heritage Complex Theme Park>by Isaac Yang(Yang Lee Sak) majoring Department of Computer Science & Bachelor of Culture and Technology.
